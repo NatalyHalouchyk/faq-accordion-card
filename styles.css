@@ -48,10 +48,9 @@ hr {
 
 .box-img {
   position: absolute;
-  margin:auto;
-  top: 39%;
+  margin: auto 0;
+  top: 13%;
   bottom: 0;
-  right: 0;
   left: -24%;
   z-index: 1;
 }
