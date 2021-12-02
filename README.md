@@ -11,7 +11,6 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
 - [Acknowledgement](#acknowledgement)
 
@@ -69,10 +68,6 @@ I tackled a lot the elements' positionning while doing this task. Some solutions
 
 ```
 
-
-### Continued development
-
-I haven't still found a solution of how to make the box image remain at place(this is the body's child), while the screen width is changing, hence I definitely must grapple with it.
 
 
 ## Author
