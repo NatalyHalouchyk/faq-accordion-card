@@ -13,6 +13,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Acknowledgement](#acknowledgement)
 
 
 
@@ -49,21 +50,24 @@ Users should be able to:
 
 ### What I learned
 
-I tackled a lot the elements' positionning while doing this task. Some solutions were new and even surprising for me. Especially, how to make an element with an absolute position stay centered while the screen width is changing.
+I tackled a lot the elements' positionning while doing this task. Some solutions were new and even surprising for me:
+ - when an image is a child of a container, it can be set and positioned as a background image;
+ - it's allowed to use more than 1 background image;
+ - how to stick an image with absolute position in place while the screen width is changed:
 
 ```css
-.woman-img {
-  height: 50%;
-  margin-left: auto;
-  margin-right: auto;
+.woman-img{
+  display: block;
+  position: absolute;
+  width: 18rem;
+  margin: auto;
   left: 0;
   right: 0;
-  top: -29%;
+  top: -125%;
+  bottom: 0;
 }
 
 ```
-Also for the first time I've used the overflow concept to affect the visibility of images (before I've known only about z-index).
-
 
 
 ### Continued development
@@ -75,4 +79,8 @@ I haven't still found a solution of how to make the box image remain at place(th
 
 - Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@NatalyHalouchyk](https://www.frontendmentor.io/profile/NatalyHalouchyk)
-- LinkendIn - [@yourusername](https://www.linkedin.com/in/natallia-halouchyk-5b600b225/)
+- LinkendIn - [](https://www.linkedin.com/in/natallia-halouchyk-5b600b225/)
+
+##Acknowledgement
+
+Thanks to the Frontend Mentor user [@eleswastaken](https://www.frontendmentor.io/profile/eleswastaken) who helped me to enhance my realization.
