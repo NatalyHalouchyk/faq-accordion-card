@@ -111,7 +111,7 @@ hr {
 
   .faq-box {
     width: 86%;
-    padding: 0 7% 10% 7%;
+    padding: 2% 7% 10% 7%;
   }
 
   h1 {
@@ -120,8 +120,7 @@ hr {
 
   .images-box {
     background-image: none;
-    height: 25vh;
-    }
+  }
 
   .woman-img{
     display: block;
