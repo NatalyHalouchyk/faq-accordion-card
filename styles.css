@@ -109,9 +109,10 @@ hr {
   }
 
   .faq-box {
-    width: 86%;
+    width: 100%;
     padding: 9rem 2rem 2rem 2rem;
     flex: 1 1 auto;
+    box-sizing: border-box;
   }
 
   h1 {
