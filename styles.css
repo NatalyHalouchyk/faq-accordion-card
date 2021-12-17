@@ -105,13 +105,13 @@ hr {
     width: 90vw;
     height: 100vh;
     flex-direction: column;
-    justify-content: space-between;
     margin: 15rem auto 10rem auto;
   }
 
   .faq-box {
     width: 86%;
-    padding: 0 7% 10% 7%;
+    padding: 25% 7% 10% 7%;
+    flex: 1 1 auto;
   }
 
   h1 {
@@ -120,6 +120,7 @@ hr {
 
   .images-box {
     background-image: none;
+    flex: 0 1 auto;
   }
 
   .woman-img{
@@ -129,7 +130,7 @@ hr {
     margin: auto;
     left: 0;
     right: 0;
-    top: -120%;
+    top: -2rem;
     bottom: 0;
   }
 
@@ -140,7 +141,7 @@ hr {
     margin: auto;
     left: 0;
     right: 0;
-    top: 0.5rem;
+    top: 7.8rem;
     bottom: 0;
   }
 
