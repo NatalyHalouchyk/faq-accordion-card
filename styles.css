@@ -103,21 +103,20 @@ hr {
 @media (max-width: 1295px) {
   .card-box {
     width: 90vw;
-    height: 100vh;
+    height: 80%;
     flex-direction: column;
     margin: 15rem auto 10rem auto;
   }
 
   .faq-box {
     width: 86%;
-    padding: 25% 7% 3% 7%;
-    flex: 1 1 0;
-    vertical-align: middle;
+    padding: 25% 7% 5% 7%;
+    flex: 1 1 auto;
   }
 
   h1 {
     text-align: center;
-    margin: 2.5rem 0 1.5rem;
+    margin: 2rem 0 1.5rem;
   }
 
   .images-box {
