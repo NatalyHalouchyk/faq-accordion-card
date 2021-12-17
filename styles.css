@@ -110,7 +110,7 @@ hr {
 
   .faq-box {
     width: 86%;
-    padding: 25% 7% 10% 7%;
+    padding: 23% 7% 10% 7%;
     flex: 1 1 auto;
   }
 
@@ -141,8 +141,8 @@ hr {
     margin: auto;
     left: 0;
     right: 0;
-    top: 7.8rem;
-    bottom: 0;
+    top: 0;
+    bottom: -7.8;
   }
 
   .box-img {
