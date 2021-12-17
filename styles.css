@@ -111,7 +111,7 @@ hr {
 
   .faq-box {
     width: 86%;
-    padding: 2% 7% 10% 7%;
+    padding: 0 7% 10% 7%;
   }
 
   h1 {
@@ -129,7 +129,7 @@ hr {
     margin: auto;
     left: 0;
     right: 0;
-    top: -125%;
+    top: -120%;
     bottom: 0;
   }
 
