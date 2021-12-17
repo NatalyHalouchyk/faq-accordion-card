@@ -112,6 +112,7 @@ hr {
     width: 86%;
     padding: 25% 7% 3% 7%;
     flex: 1 1 auto;
+    vertical-align: middle;
   }
 
   h1 {
